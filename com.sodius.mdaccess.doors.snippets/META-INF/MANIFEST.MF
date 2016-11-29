@@ -8,4 +8,6 @@ Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Require-Bundle: com.sodius.mdw.metamodel.doors,
  com.sodius.mdw.metamodel.doors.connectors.dxl,
  com.sodius.mdw.platform.doors,
- org.eclipse.equinox.common
+ org.eclipse.equinox.common,
+ org.eclipse.swt;bundle-version="3.105.1",
+ org.eclipse.core.runtime;bundle-version="3.12.0"
